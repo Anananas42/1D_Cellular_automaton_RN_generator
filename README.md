@@ -19,6 +19,5 @@ Run the Cellular Automata.exe to start the Unity application.
 ![image](https://user-images.githubusercontent.com/43809508/139271880-a2fc2ffd-f8d4-41ff-b23a-4904642025cb.png)
 
 ### It's not perfect, but it's still fun
-* UI aligns poorly with large resolution.
 * Autocorrelation can be inaccurate due to larger amount of datapoints than the amount of available pixels.
 * Wrapping on the left contains a minor bug.
